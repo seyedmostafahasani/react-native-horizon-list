@@ -4,10 +4,12 @@ The React Native Horizon List package is a versatile and efficient solution for 
 
 ## LTR Video
 https://github.com/seyedmostafahasani/react-native-horizon-list/assets/3009224/74a98e83-3371-4912-8768-cf98b3763df8
+https://github.com/seyedmostafahasani/react-native-horizon-list/assets/3009224/e2608eec-dd3a-4972-a1cd-5de66ced84d8
 
 
 ## RTL Video
 https://github.com/seyedmostafahasani/react-native-horizon-list/assets/3009224/94bf39d9-c738-40a8-8c0a-08bd29a7e4f9
+https://github.com/seyedmostafahasani/react-native-horizon-list/assets/3009224/830460d5-c90a-4398-8bdb-628b1bd85375
 
 
 ## Installation
