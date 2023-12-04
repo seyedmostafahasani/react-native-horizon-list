@@ -11,10 +11,10 @@ https://github.com/seyedmostafahasani/react-native-horizontal-list/assets/300922
 ## Installation
 
 ```sh
-npm install react-native-horizontal-list
+npm install react-native-horizon-list
 ````
 ```sh
-yarn add react-native-horizontal-list
+yarn add react-native-horizon-list
 ````
 
 ## Usage
