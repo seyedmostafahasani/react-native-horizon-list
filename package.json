@@ -1,6 +1,6 @@
 {
   "name": "react-native-horizon-list",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "The React Native Horizontal List package is a versatile and efficient solution for implementing horizontal lists in your React Native applications. I tried to fix the RTL issue on the FlatList, empowering developers to create sleek and responsive horizontal scrollable lists, and enhancing the user experience with seamless navigation through a collection of items.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
