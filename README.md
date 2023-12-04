@@ -2,11 +2,14 @@
 
 The React Native Horizon List package is a versatile and efficient solution for implementing horizontal lists in your React Native applications. I tried to fix the RTL issue on the FlatList, empowering developers to create sleek and responsive horizontal scrollable lists, and enhancing the user experience with seamless navigation through a collection of items.
 
+
 ## LTR Video
-https://github.com/seyedmostafahasani/react-native-horizontal-list/assets/3009224/f3bf198f-3cc2-453e-adf6-085c0ee18960
+https://github.com/seyedmostafahasani/react-native-horizon-list/assets/3009224/74a98e83-3371-4912-8768-cf98b3763df8
+
 
 ## RTL Video
-https://github.com/seyedmostafahasani/react-native-horizontal-list/assets/3009224/e10002fa-269d-4415-9196-f88accfa4952
+https://github.com/seyedmostafahasani/react-native-horizon-list/assets/3009224/94bf39d9-c738-40a8-8c0a-08bd29a7e4f9
+
 
 ## Installation
 
